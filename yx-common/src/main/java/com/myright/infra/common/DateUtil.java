@@ -11,6 +11,9 @@ public class DateUtil {
         SimpleDateFormat dateFormater = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         return dateFormater.format(new Date());
     }
+    public static String formatDate(String pattern){
+        return new SimpleDateFormat(pattern).format(new Date());
+    }
 
 
 }
