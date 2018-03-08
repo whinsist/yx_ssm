@@ -14,6 +14,12 @@ public class DateUtil {
         return formatDate(new Date(), pattern);
     }
 
+    /**
+     * 格式化日期
+     * @param date 日期
+     * @param pattern 格式
+     * @return
+     */
     public static String formatDate(Date date, String pattern){
         return new SimpleDateFormat(pattern).format(date);
     }
