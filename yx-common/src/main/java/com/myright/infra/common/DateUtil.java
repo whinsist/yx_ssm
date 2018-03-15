@@ -15,7 +15,7 @@ public class DateUtil {
     }
 
     /**
-     * 格式化日期 company111 - home111 - company222 - home222 - comopany333 - home333 - company444
+     * 格式化日期 company111 - home111 - company222 - home222 - comopany333 - home333 - company444 - company555
      * @param date 日期
      * @param pattern 格式
      * @return
