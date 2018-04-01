@@ -19,6 +19,9 @@ public class DateUtil {
      * @param date 日期
      * @param pattern 格式
      * @return
+     *
+     *
+     * master----------
      */
     public static String formatDate(Date date, String pattern){
         return new SimpleDateFormat(pattern).format(date);
