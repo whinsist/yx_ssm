@@ -11,9 +11,7 @@
     <meta name="author" content="">
 </head>
 <body>
-
-    <div>master的信息</div>
-    <div>master提交信息-----20180514</div>
+    <div>master的信息起点</div>
 
 </body>
 </html>
