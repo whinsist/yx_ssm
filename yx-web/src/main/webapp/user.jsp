@@ -11,9 +11,8 @@
     <meta name="author" content="">
 </head>
 <body>
+    <div>master的信息起点</div>
 
-    <div>master的信息</div>
-    <div>test分支的消息，现在我正在test分支上 怎么把test的分支提交到master上去呢</div>
 
 </body>
 </html>
